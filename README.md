@@ -1,1 +1,2 @@
-# php_calendar
+# simple .php calendar script
+
