@@ -23,7 +23,7 @@ $aylar = array(
 		"12" =>"Aralık"
 		)
 ?>
-<form method="post" action="takvim.php">
+<form method="post" action="calendar.php">
 <select name ="month">
 <?php 
 foreach ($aylar as $key => $value ) {
